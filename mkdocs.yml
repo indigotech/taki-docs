@@ -1,0 +1,7 @@
+site_name: Taki Documentation
+theme: readthedocs
+pages:
+- Home: index.md
+- API: api.md
+- Android SDK: android-sdk.md
+- iOS SDK: ios-sdk.md
